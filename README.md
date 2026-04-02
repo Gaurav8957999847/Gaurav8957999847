@@ -7,9 +7,9 @@ Crafting scalable systems, lightning-fast APIs, and intelligent AI-powered appli
 
 ## 🚀 About Me
 
-Passionate **Backend-Heavy Full-Stack Engineer** from **Lucknow, Uttar Pradesh, India**.  
+Passionate **Backend-Heavy Full-Stack Engineer** from **Lucknow, Uttar Pradesh, India**.
 
-I specialize in building robust, secure, and high-performance applications that solve real problems — from enterprise auth systems to AI tools helping farmers make smarter decisions.
+I specialize in building robust, secure, and high-performance applications — from enterprise-grade APIs to real-world AI solutions that create impact.
 
 - 🔭 **Currently building**: Character-level language models from scratch
 - 🌱 **Learning**: Advanced LLMs, Agentic AI, production MLOps & modern backend systems
@@ -30,7 +30,8 @@ I specialize in building robust, secure, and high-performance applications that 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
 
 ### Frontend & Core Languages
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
@@ -42,6 +43,15 @@ I specialize in building robust, secure, and high-performance applications that 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge)
+
+### Competitive Programming
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge)
+
+**Achievements**  
+- **LeetCode Knight**  
+- **Codeforces Pupil**  (upcoming specialist)
 
 **Core Strengths**: DSA • System Design • Clean Architecture • Performance Optimization
 
@@ -72,6 +82,7 @@ Always excited to discuss **backend architecture**, **LLMs**, **Agentic systems*
 **Open to work** — Backend Engineering • Full-Stack • AI/ML • LLM Roles
 
 Feel free to reach out anytime!
+
 
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gaurav8957999847&layout=compact&theme=tokyonight&hide_border=true)
