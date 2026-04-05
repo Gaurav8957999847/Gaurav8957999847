@@ -7,12 +7,12 @@ Crafting scalable systems, lightning-fast APIs, and intelligent AI-powered appli
 
 ## 🚀 About Me
 
-Passionate **Backend-Heavy Full-Stack Engineer** from **Lucknow, Uttar Pradesh, India**.
+Passionate **Backend-Heavy Full-Stack Engineer** from **Lucknow, Uttar Pradesh, India**.  
 
 I specialize in building robust, secure, and high-performance applications — from enterprise-grade APIs to real-world AI solutions that create impact.
 
-- 🔭 **Currently building**: Character-level language models from scratch
-- 🌱 **Learning**: Advanced LLMs, Agentic AI, production MLOps & modern backend systems
+- 🔭 **Currently building**: Character-level language models & tiny neural net engines from scratch
+- 🌱 **Learning**: Advanced LLMs, Agentic AI, production MLOps, Low-Level Design & modern backend systems
 - 💡 **Open to**: Backend • Full-Stack • AI/ML • LLM Engineering roles & collaborations
 
 ---
@@ -49,11 +49,11 @@ I specialize in building robust, secure, and high-performance applications — f
 ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge)
 
-**Achievements**  
-- **LeetCode Knight**  
-- **Codeforces Pupil**  (upcoming specialist)
+**Achievements**
+- **LeetCode Knight**
+- **Codeforces Pupil** (working towards Specialist)
 
-**Core Strengths**: DSA • System Design • Clean Architecture • Performance Optimization
+**Core Strengths**: DSA • System Design • Clean Architecture • Performance Optimization • Low-Level Design
 
 ---
 
@@ -63,26 +63,26 @@ I specialize in building robust, secure, and high-performance applications — f
 **Krishisathi** — AI platform for farmers: crop profitability prediction + CNN-based plant disease detection.  
 **TradeNexus** — Full MERN stock trading dashboard with live tracking & order management.  
 **Makemore** — Character-level language model built from scratch (n-grams → Neural Nets → Transformers).  
-**Secure Auth System** — Enterprise-ready JWT authentication with secure password flows.
+**Micrograd** — Tiny scalar-valued Autograd engine & neural network library built from scratch (backpropagation from scratch).  
+**Secure Auth System** — Enterprise-ready JWT authentication with secure password hashing & reset flows.
 
 → **[Explore all repositories](https://github.com/Gaurav8957999847?tab=repositories)**
 
 ---
 
 ## 📈 GitHub Highlights
-- 58 contributions in the last year  
+- 68 contributions in the last year
 - Strong focus on **clean, scalable code** and **production-ready AI**
+- Actively working on deep learning fundamentals and backend systems (April 2026)
 
 ---
 
 ## 📬 Let's Connect
 
-Always excited to discuss **backend architecture**, **LLMs**, **Agentic systems**, or new opportunities.
+Always excited to discuss **backend architecture**, **LLMs**, **Agentic systems**, Low-Level Design, or new opportunities.
 
-**Open to work** — Backend Engineering • Full-Stack • AI/ML • LLM Roles
+**Open to work** — Backend Engineering • Full-Stack • AI/ML • LLM Roles  
 
 Feel free to reach out anytime!
-
-
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gaurav8957999847&layout=compact&theme=tokyonight&hide_border=true)
